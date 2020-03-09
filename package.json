@@ -1,0 +1,59 @@
+{
+  "_from": "@tbj/eslint-config-tbj",
+  "_id": "@tbj/eslint-config-tbj@1.0.12",
+  "_inBundle": false,
+  "_integrity": "sha1-DFBZcBZNAsRgWH+3Um0YbU1wFTA=",
+  "_location": "/@tbj/eslint-config-tbj",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@tbj/eslint-config-tbj",
+    "name": "@tbj/eslint-config-tbj",
+    "escapedName": "@tbj%2feslint-config-tbj",
+    "scope": "@tbj",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://npm.tongbanjie.com/@tbj%2feslint-config-tbj/-/eslint-config-tbj-1.0.12.tgz",
+  "_shasum": "0c505970164d02c460587fb7526d186d4d701530",
+  "_spec": "@tbj/eslint-config-tbj",
+  "_where": "/usr/local/lib/node_modules/@tbj",
+  "author": {
+    "name": "zhishui"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.5.0",
+    "eslint-config-vue": "^1.1.0",
+    "eslint-plugin-flow-vars": "^0.5.0",
+    "eslint-plugin-html": "^1.5.2",
+    "eslint-plugin-react": "^6.2.0"
+  },
+  "deprecated": false,
+  "description": "face the wrong, and fix them",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.5.0",
+    "eslint-config-vue": "^1.1.0",
+    "eslint-plugin-flow-vars": "^0.5.0",
+    "eslint-plugin-html": "^1.5.2",
+    "eslint-plugin-react": "^6.2.0"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@tbj/eslint-config-tbj",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.12"
+}
